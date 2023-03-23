@@ -9,6 +9,7 @@
 **IDE**: VS Code, Jupyter Notebook, pgAdmin  
 
 [**Портфолио пет-проектов**]()
+
  [Мое резюме]() и профиль на [LinkedIn](www.linkedin.com/in/Drakina-Alena)  
 📩 Со мной можно связаться через [Telegram]([https://t.me/aleks_2011](https://t.me/Alena_Drakina)  
 📫 Если удобней по e-mail, то пишите по этому адресу:[drakinaalena88@gmail.com(mailto:drakinaalena88@gmail.com)  
