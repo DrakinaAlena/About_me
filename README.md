@@ -12,4 +12,4 @@
 
  [Мое резюме]() и профиль на [LinkedIn](www.linkedin.com/in/Drakina-Alena)  
 📩 Со мной можно связаться через [Telegram](https://t.me/Alena_Drakina)  
-📫 Если удобней по e-mail, то пишите по этому адресу:[drakinaalena88@gmail.com](mailto:drakinaalena88@gmail.com)  
+📫 Если удобней по e-mail, то пишите по этому адресу: [drakinaalena88@gmail.com](mailto:drakinaalena88@gmail.com)  
