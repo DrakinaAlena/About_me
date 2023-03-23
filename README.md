@@ -5,7 +5,8 @@
 
 Имею длительный опыт юридического сопровождения бизнеса и работы в команде, а также ведения проектов в различных областях: проектная работа в ритейле (Sela), сопровождение деятельности рыболовецкой компании (ремонт, строительство, покупка и продажа судов, найм моряков), работа в управляющей компании (возглавляет группу компаний: Мейтан, Санвест, AlfaPizza)
 
-**Стэк**:  Python(Base (Pandas, Numpy, Math, SciPy) –  Visualization(Matplotlib, Seaborn) - DE( SQL, PostreSQL) 
+**Стэк**:  Python((Pandas, Numpy, Math, SciPy, Matplotlib, Seaborn), SQL, PostreSQL
+
 **IDE**: VS Code, Jupyter Notebook, pgAdmin  
 
 [**Портфолио пет-проектов**]()
