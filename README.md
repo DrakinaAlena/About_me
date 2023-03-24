@@ -9,7 +9,7 @@
 
 **IDE**: VS Code, Jupyter Notebook, pgAdmin  
 
-[**Портфолио пет-проектов**](https://github.com/DrakinaAlena/Data_Analyst)
+[**Портфолио проектов в сфере аналитики данных**](https://github.com/DrakinaAlena/Data_Analyst)
 
  [Мое резюме](https://github.com/DrakinaAlena/About_me/blob/main/Certificates/CV_DA_Drakina_Alena.pdf) и профиль на [LinkedIn](www.linkedin.com/in/Drakina-Alena)  
 📩 Со мной можно связаться через [Telegram](https://t.me/Alena_Drakina)  
